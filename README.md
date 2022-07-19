@@ -20,6 +20,7 @@ All done WITHOUT video editing or asset compiling.
 3. Run `python -m playwright install` and `python -m playwright install-deps`
 
 3.1. If you have a problem running `python main.py`, then you need to download first ffmpeg using homebrew: `brew install ffmpeg`
+
 3.2. For any problem running using pip, python. Use `pip3` and `python3`.
 
 4. Run `python main.py`
